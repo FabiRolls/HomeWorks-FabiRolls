@@ -1,0 +1,30 @@
+1. En un archivo de texto separado que debes crear,
+escribe explicaciones de los siguientes conceptos como s
+i se lo estuvieras explicando a un niño de 12 años.
+Hacer esto te ayudará a descubrir rápidamente cualquier a
+gujero en tu comprensión.
+
+	* Variables: Es un elemento al que puedes cambiar cosas, darle diferentes
+  valores y configuraciones.
+  Ejemplo: Tú eres una variable y usas ropa de acuerdo al clima,
+  si estás en verano usas ropa fresca, si hay una variación en el
+  clima y llega el invierno, cambia la configuración en tu ropa y
+  usas ropa abrigada y adecuada para el invierno. Hay variaciones
+  de acuerdo a nuestras configuraciones.
+
+	* Strings: se encuentran dentro de una variable y se reconocen
+  porque se representan con letras, palabras y bloques de texto,
+  siempre están entre comillas.
+  Ejemplo: "chaqueta"
+   .
+	* Funciones (argumentos, `return`): dan instrucciones para que las
+  variables se comporten como queremos. Hacemos que las cosas
+	reaccionen como queremos
+
+  * Declaraciones `if`
+	Poner una condición para conducir a un resultado especifico según
+	la información que queremos recibir.
+
+	* Valores booleanos (`true`, `false`)
+	Son valores para descartar e incluir información de acuerdo a la
+	situación que hamos planteado.
